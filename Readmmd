@@ -1,0 +1,19 @@
+# API REST em PHP
+
+API simples criada em PHP para demonstrar conceitos de REST.
+
+## Endpoints
+
+### GET /index.php
+Retorna lista de clientes em JSON.
+
+### POST /index.php
+Simula criação de cliente.
+
+### DELETE /index.php
+Simula remoção de cliente.
+
+## Tecnologias
+- PHP
+- JSON
+- HTTP
